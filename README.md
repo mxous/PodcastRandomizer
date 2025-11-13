@@ -4,7 +4,9 @@ Podcast locations are randomized inside their original areas. They can sometimes
 
 Requires BepInEx.
 
-Install by placing PodcastRandomizer.dll in `Steam\steamapps\common\Get To Work\BepInEx\plugins`
+Installation:
+1. Download PodcastRandomizer.dll from releases.
+2. Place in `Steam\steamapps\common\Get To Work\BepInEx\plugins`
 
 Podcasts:
 - afj - 1
@@ -15,3 +17,4 @@ Podcasts:
 - mm - 5 (1 lower 2 mid 2 upper)
 - vp - 4 (2 lower 2 upper)
 - ceo - 1
+
